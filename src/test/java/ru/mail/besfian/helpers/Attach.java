@@ -1,4 +1,4 @@
-package ru.mail.besfian;
+package ru.mail.besfian.helpers;
 
 import com.codeborne.selenide.Selenide;
 import io.qameta.allure.Attachment;
