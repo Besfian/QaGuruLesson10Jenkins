@@ -22,7 +22,7 @@ public class MyTextBoxTests extends TestBase{
 
     @Owner("sergeev")
     @Severity(SeverityLevel.NORMAL)
-    @DisplayName("Github test with Allure labels, clean StepLambdaSelenideTest")
+    @DisplayName("Github test with Allure")
     @Test
     void formTest() {
         StudentData faker = new StudentData();
