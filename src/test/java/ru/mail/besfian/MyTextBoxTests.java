@@ -14,7 +14,7 @@ import java.util.List;
 import static io.qameta.allure.Allure.step;
 
 
-public class MyTextBoxTests {
+public class MyTextBoxTests extends TestBase{
     @BeforeAll
     static void disclosure() {
         Configuration.startMaximized = true;
